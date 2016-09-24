@@ -28,6 +28,7 @@
 		7E3E866D1D5A2ED300110330 /* 栈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "栈.playground"; sourceTree = "<group>"; };
 		7E4D63C21D9654DC00011BB5 /* 5-3-图的BFS.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5-3-图的BFS.playground"; sourceTree = "<group>"; };
 		7E4D63C31D967D1A00011BB5 /* 6-1-Floyd-Warshall.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6-1-Floyd-Warshall.playground"; sourceTree = "<group>"; };
+		7E4D63C41D96946700011BB5 /* 6-2-Dijkstra.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "6-2-Dijkstra.playground"; sourceTree = "<group>"; };
 		7E6B5BED1D7C338900D04D2A /* 解救小哈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "解救小哈.playground"; sourceTree = "<group>"; };
 		7E6B5BEE1D7C64C700D04D2A /* 广度优先搜索.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "广度优先搜索.playground"; sourceTree = "<group>"; };
 		7E6B5BEF1D7C717800D04D2A /* 水管工游戏.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "水管工游戏.playground"; sourceTree = "<group>"; };
@@ -66,6 +67,7 @@
 				7EBBF5FC1D903BC700BD5F8A /* 图的DFS.playground */,
 				7E4D63C21D9654DC00011BB5 /* 5-3-图的BFS.playground */,
 				7E4D63C31D967D1A00011BB5 /* 6-1-Floyd-Warshall.playground */,
+				7E4D63C41D96946700011BB5 /* 6-2-Dijkstra.playground */,
 			);
 			name = Playgrounds;
 			sourceTree = "<group>";
