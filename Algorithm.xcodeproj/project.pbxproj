@@ -1,0 +1,278 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXCopyFilesBuildPhase section */
+		7E1B4C921D5F16970096BE36 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		7E1B4C941D5F16970096BE36 /* MonsterTown */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MonsterTown; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E1B4CA41D5F85710096BE36 /* 小猫钓鱼.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "小猫钓鱼.playground"; sourceTree = "<group>"; };
+		7E3E86691D5754F900110330 /* 桶排序.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "桶排序.playground"; sourceTree = "<group>"; };
+		7E3E866A1D576A9C00110330 /* 冒泡.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "冒泡.playground"; sourceTree = "<group>"; };
+		7E3E866B1D5775EF00110330 /* 快速排序.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "快速排序.playground"; sourceTree = "<group>"; };
+		7E3E866C1D5A29DD00110330 /* 队列.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "队列.playground"; sourceTree = "<group>"; };
+		7E3E866D1D5A2ED300110330 /* 栈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "栈.playground"; sourceTree = "<group>"; };
+		7E4D63C21D9654DC00011BB5 /* 5-3-图的BFS.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "5-3-图的BFS.playground"; sourceTree = "<group>"; };
+		7E6B5BED1D7C338900D04D2A /* 解救小哈.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "解救小哈.playground"; sourceTree = "<group>"; };
+		7E6B5BEE1D7C64C700D04D2A /* 广度优先搜索.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "广度优先搜索.playground"; sourceTree = "<group>"; };
+		7E6B5BEF1D7C717800D04D2A /* 水管工游戏.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "水管工游戏.playground"; sourceTree = "<group>"; };
+		7E912C0C1D5F993200B93059 /* 火柴棍等式.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "火柴棍等式.playground"; sourceTree = "<group>"; };
+		7E912C0D1D5FA1FD00B93059 /* 全排列.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "全排列.playground"; sourceTree = "<group>"; };
+		7EAE00EB1D73420100A2477D /* 深度优先搜索.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "深度优先搜索.playground"; sourceTree = "<group>"; };
+		7EBBF5FC1D903BC700BD5F8A /* 图的DFS.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "图的DFS.playground"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7E1B4C911D5F16970096BE36 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7E1B4C9B1D5F16AD0096BE36 /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				7E3E866D1D5A2ED300110330 /* 栈.playground */,
+				7E3E866C1D5A29DD00110330 /* 队列.playground */,
+				7E3E866B1D5775EF00110330 /* 快速排序.playground */,
+				7E3E86691D5754F900110330 /* 桶排序.playground */,
+				7E3E866A1D576A9C00110330 /* 冒泡.playground */,
+				7E1B4CA41D5F85710096BE36 /* 小猫钓鱼.playground */,
+				7E912C0C1D5F993200B93059 /* 火柴棍等式.playground */,
+				7E912C0D1D5FA1FD00B93059 /* 全排列.playground */,
+				7EAE00EB1D73420100A2477D /* 深度优先搜索.playground */,
+				7E6B5BED1D7C338900D04D2A /* 解救小哈.playground */,
+				7E6B5BEE1D7C64C700D04D2A /* 广度优先搜索.playground */,
+				7E6B5BEF1D7C717800D04D2A /* 水管工游戏.playground */,
+				7EBBF5FC1D903BC700BD5F8A /* 图的DFS.playground */,
+				7E4D63C21D9654DC00011BB5 /* 5-3-图的BFS.playground */,
+			);
+			name = Playgrounds;
+			sourceTree = "<group>";
+		};
+		7E3E86461D5754D500110330 = {
+			isa = PBXGroup;
+			children = (
+				7E1B4C9B1D5F16AD0096BE36 /* Playgrounds */,
+				7E3E86501D5754D500110330 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7E3E86501D5754D500110330 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7E1B4C941D5F16970096BE36 /* MonsterTown */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7E1B4C931D5F16970096BE36 /* MonsterTown */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7E1B4C9A1D5F16970096BE36 /* Build configuration list for PBXNativeTarget "MonsterTown" */;
+			buildPhases = (
+				7E1B4C901D5F16970096BE36 /* Sources */,
+				7E1B4C911D5F16970096BE36 /* Frameworks */,
+				7E1B4C921D5F16970096BE36 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MonsterTown;
+			productName = MonsterTown;
+			productReference = 7E1B4C941D5F16970096BE36 /* MonsterTown */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7E3E86471D5754D500110330 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = WellCheng;
+				TargetAttributes = {
+					7E1B4C931D5F16970096BE36 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 7E3E864A1D5754D500110330 /* Build configuration list for PBXProject "Algorithm" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7E3E86461D5754D500110330;
+			productRefGroup = 7E3E86501D5754D500110330 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7E1B4C931D5F16970096BE36 /* MonsterTown */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7E1B4C901D5F16970096BE36 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		7E1B4C981D5F16970096BE36 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7E1B4C991D5F16970096BE36 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		7E3E86641D5754D500110330 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		7E3E86651D5754D500110330 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7E1B4C9A1D5F16970096BE36 /* Build configuration list for PBXNativeTarget "MonsterTown" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E1B4C981D5F16970096BE36 /* Debug */,
+				7E1B4C991D5F16970096BE36 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7E3E864A1D5754D500110330 /* Build configuration list for PBXProject "Algorithm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7E3E86641D5754D500110330 /* Debug */,
+				7E3E86651D5754D500110330 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7E3E86471D5754D500110330 /* Project object */;
+}
